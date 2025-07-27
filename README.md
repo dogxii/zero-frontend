@@ -16,7 +16,7 @@ HTML 语言的全貌和基本的工作原理 -> 学习 HTML 头部 -> 语义 HTM
 
 [CSS 基础 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics)
 
-CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属性选择器 -> 伪类和伪元素 -> 关系选择器 -> 盒模型 -> 层叠、优先级与继承 -> 值和单位 -> 在 CSS 中调整大小 -> 内容溢出 -> 图像、媒体和表单元素 ->
+CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属性选择器 -> 伪类和伪元素 -> 关系选择器 -> 盒模型 -> 层叠、优先级与继承 -> 值和单位 -> 在 CSS 中调整大小 -> 内容溢出 -> 图像、媒体和表单元素 -> 再鸽一天，写新项目写似掉了
 
 **Normalize.css**:
 
