@@ -17,6 +17,7 @@ html {
   background-color: red;
   border: 0.2em solid black;
   border-radius: 1.5em;
+  filter: blur(1px);
 }
 
 .card header {
