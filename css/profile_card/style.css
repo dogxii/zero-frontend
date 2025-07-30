@@ -38,7 +38,7 @@ html {
   border-radius: 0 0 1.5em 1.5em;
 }
 
-.card article img {
+.card .card-content img {
   max-height: 100%;
   float: right;
 }
@@ -54,7 +54,7 @@ html {
   margin: 0;
 }
 
-.card article {
+.card .card-content {
   height: 12em;
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
@@ -70,6 +70,6 @@ html {
   line-height: 2em;
 }
 
-.card article p {
+.card .card-content p {
   padding: 1em;
 }
