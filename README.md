@@ -45,10 +45,10 @@ Now let’s do some challenges 🚀:
 
 [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS)
 
-qwq~~
-
 # JavaScript hasn't start~
 
 ## Mini Webs (HTML + CSS + JS)
 
 [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+
+## React
