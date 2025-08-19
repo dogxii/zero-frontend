@@ -45,7 +45,13 @@ Now let’s do some challenges 🚀:
 
 [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS)
 
-# JavaScript hasn't start~
+## JavaScript 8.20
+
+[JavaScript 脚本交互 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Scripting)
+
+[阮一峰 JavaScript 教程](https://wangdoc.com/javascript/)
+
+> Other: [ECMAScript 6 教程](https://wangdoc.com/es6) [TypeScript 教程](https://wangdoc.com/typescript/)
 
 ## Mini Webs (HTML + CSS + JS)
 
