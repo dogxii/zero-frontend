@@ -53,7 +53,7 @@ Now let’s do some challenges 🚀:
 
 > Other: [ECMAScript 6 教程](https://wangdoc.com/es6) [TypeScript 教程](https://wangdoc.com/typescript/)
 
-开学了= = ~
+可恶的wrt
 
 ## Mini Webs (HTML + CSS + JS)
 
