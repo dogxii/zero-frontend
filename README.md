@@ -53,7 +53,7 @@ Now let’s do some challenges 🚀:
 
 > Other: [ECMAScript 6 教程](https://wangdoc.com/es6) [TypeScript 教程](https://wangdoc.com/typescript/)
 
-仍然wrtX_X
+换了新cpe~
 
 ## Mini Webs (HTML + CSS + JS)
 
