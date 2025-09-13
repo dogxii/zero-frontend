@@ -43,7 +43,7 @@ Because some things wasted some time.
 
 Now let’s do some challenges 🚀:
 
-[30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS)
+[30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) ✅
 
 ## JavaScript 8.20
 
@@ -52,8 +52,6 @@ Now let’s do some challenges 🚀:
 [阮一峰 JavaScript 教程](https://wangdoc.com/javascript/)
 
 > Other: [ECMAScript 6 教程](https://wangdoc.com/es6) [TypeScript 教程](https://wangdoc.com/typescript/)
-
-换了新cpe~
 
 ## Mini Webs (HTML + CSS + JS)
 
