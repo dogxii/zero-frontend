@@ -5,7 +5,7 @@ From 🥚 to 1 again. Please fall a job from the sky :D
 > 7.30
 > I just found [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/) provided a nice road.
 
-## HTML 7.9
+## HTML
 
 [HTML - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Structuring_content)
 
@@ -15,7 +15,7 @@ HTML 语言的全貌和基本的工作原理 -> 学习 HTML 头部 -> 语义 HTM
 
 [Nu HTML Checker](https://validator.w3.org/nu/)
 
-## CSS 7.19
+## CSS
 
 [CSS 基础 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics)
 
@@ -37,7 +37,7 @@ CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属�
 
 > A complete collection of web safe CSS font stacks.
 
-## HTML + CSS 8.13
+## HTML + CSS
 
 Because some things wasted some time.
 
@@ -45,7 +45,7 @@ Now let’s do some challenges 🚀:
 
 [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) ✅
 
-## JavaScript 8.20
+## JavaScript
 
 [JavaScript 脚本交互 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Scripting)
 
@@ -58,7 +58,3 @@ Now let’s do some challenges 🚀:
 [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
 
 ## React
-
-```
-
-```
