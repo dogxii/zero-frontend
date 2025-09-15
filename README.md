@@ -33,21 +33,11 @@ CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属�
 
 [Element Panel | Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/elements?hl=zh-cn)
 
-**CSS 字体**:
-
-[cssfontstatck.com](https://www.cssfontstack.com/)
-
-> A complete collection of web safe CSS font stacks.
-
 ## HTML + CSS
-
-> 因为一些事情浪费了一些时间
 
 让我们做一些挑战，fork 它并开始吧 🚀:
 
--> [30daysCSS](https://github.com/dogxii/30daysCSS)
-
-- 这是我汉化过的，原项目: [30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) ✅
+-> [30daysCSS | CSS 项目挑战](https://github.com/dogxii/30daysCSS)
 
 ## JavaScript
 
@@ -55,14 +45,12 @@ CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属�
 
 更新中 ...
 
-> Other:[阮一峰 JavaScript 教程](https://wangdoc.com/javascript/) [ECMAScript 6 教程](https://wangdoc.com/es6) [TypeScript 教程](https://wangdoc.com/typescript/)
+> Other: [阮一峰 JavaScript 教程](https://wangdoc.com/javascript/) [ECMAScript 6 教程](https://wangdoc.com/es6) [TypeScript 教程](https://wangdoc.com/typescript/)
 
 ## Mini Webs (HTML + CSS + JS)
 
 继续我们的挑战！🚀:
 
-[20miniWebs](https://github.com/dogxii/miniWebs)
-
-- 同汉化处理，原项目[vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects)
+-> [20miniWebs | JS 项目挑战](https://github.com/dogxii/miniWebs)
 
 ## React
