@@ -7,7 +7,7 @@
 > [!NOTE]
 > 学一点做一点，先做堆垃圾出来！
 
-## HTML
+### HTML
 
 -> [HTML - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Structuring_content)
 
@@ -17,7 +17,7 @@ HTML 语言的全貌和基本的工作原理 -> 学习 HTML 头部 -> 语义 HTM
 
 [Nu HTML Checker](https://validator.w3.org/nu/)
 
-## CSS
+### CSS
 
 -> [CSS 基础 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics)
 
@@ -33,24 +33,26 @@ CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属�
 
 [Element Panel | Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/elements?hl=zh-cn)
 
-## HTML + CSS
+### HTML + CSS
 
 让我们做一些挑战，fork 它并开始吧 🚀:
 
 -> [30daysCSS | CSS 项目挑战](https://github.com/dogxii/30daysCSS)
 
-## JavaScript
+### JavaScript
 
 -> [JavaScript 脚本交互 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Scripting)
 
-更新中 ...
+> 与 HTML 和 CSS 相比，JavaScript 作为一门完整的编程语言，其学习路线更为复杂和多样化，所以难以用简单的步骤概括。
+
+JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方法 -> 数组 -> 条件语句 -> 循环语句 -> 函数 -> 事件 ->
 
 > Other: [阮一峰 JavaScript 教程](https://wangdoc.com/javascript/) [ECMAScript 6 教程](https://wangdoc.com/es6) [TypeScript 教程](https://wangdoc.com/typescript/)
 
-## Mini Webs (HTML + CSS + JS)
+### Mini Webs (HTML + CSS + JS)
 
 继续我们的挑战！🚀:
 
 -> [20miniWebs | JS 项目挑战](https://github.com/dogxii/miniWebs)
 
-## React
+### React
