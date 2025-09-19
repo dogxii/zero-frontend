@@ -47,7 +47,7 @@ CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属�
 
 -> [JavaScript 脚本交互 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Scripting)
 
-JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方法 -> 数组 -> 条件语句 -> 循环语句 -> 函数 -> 事件 -> 事件冒泡 -> 对象基础 -> DOM 脚本简介 ->
+JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方法 -> 数组 -> 条件语句 -> 循环语句 -> 函数 -> 事件 -> 事件冒泡 -> 对象基础 -> DOM 脚本简介 -> 服务器获取数据(fetch) -> 使用 JSON ->
 
 > 与 HTML 和 CSS 相比，JavaScript 作为一门完整的编程语言，其学习路线更为复杂和多样化，所以难以用简单的步骤概括。
 
