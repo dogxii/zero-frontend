@@ -70,6 +70,6 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 
 -> [JavaScript 框架和库 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Frameworks_libraries)
 
-客户端框架介绍 -> 框架主要特性 -> React 事件和状态 -> React 交互性 ->
+客户端框架介绍 -> 框架主要特性 -> React 事件和状态 -> React 交互性 -> React 可访问性 -> React 资源
 
 -> [React.dev | 官方文档](https://zh-hans.react.dev/learn)
