@@ -74,4 +74,4 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 
 -> [React.dev | 官方文档](https://zh-hans.react.dev/learn)
 
-快速入门 -> 井字棋游戏 -> React 哲学 ->
+快速入门 -> 井字棋游戏 -> React 哲学 -> React 安装及配置
