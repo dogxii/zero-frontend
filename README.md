@@ -75,3 +75,5 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 -> [React.dev | 官方文档](https://zh-hans.react.dev/learn)
 
 快速入门 -> 井字棋游戏 -> React 哲学 -> React 安装及配置 -> React 编译器 -> 描述 UI -> 摸鱼一天~
+
+因为还在鸽上面的 miniwebs 所以没有日更了 qwq
