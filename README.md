@@ -2,7 +2,7 @@
 
 > 因为我都要看一遍，所以正在更新中...
 
-从 🥚 到 1 学习前端，推荐我觉得不错的教程(+实践)学习路线 :D
+从 🥚 到 1 学习前端，推荐我觉得不错的教程(+实践)学习路线，从上往下 :D
 
 > [!NOTE]
 > 学一点做一点，先做堆垃圾出来！
@@ -54,7 +54,6 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 - Other:
   - [阮一峰 JavaScript 教程](https://wangdoc.com/javascript/) (推荐)
   - [ECMAScript 6 教程](https://wangdoc.com/es6)
-  - [TypeScript 教程](https://wangdoc.com/typescript/)
 
 ---
 
@@ -66,7 +65,17 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 
 ---
 
-### ⚛ React
+### TypeScript
+
+-> [阮一峰 TypeScript 教程](https://wangdoc.com/typescript/)
+
+咕咕咕!（之前看过一遍，过段时间再补）
+
+---
+
+### ⚛ React (Web 框架)
+
+> React 严格来说是一个渲染用户组件的库
 
 -> [JavaScript 框架和库 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Frameworks_libraries)
 
@@ -77,3 +86,15 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 快速入门 -> 井字棋游戏 -> React 哲学 -> React 安装及配置 -> React 编译器 -> 描述 UI -> 摸鱼一天~
 
 因为还在鸽上面的 miniwebs 所以没有日更了 qwq
+
+---
+
+## 额外学习
+
+### Sass (CSS 预处理器)
+
+### Tailwindcss (CSS 框架)
+
+### Vitest (自动化测试)
+
+### Nextjs (Meta 框架)
