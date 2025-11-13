@@ -69,7 +69,12 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 
 ### TypeScript
 
--> [阮一峰 TypeScript 教程](https://wangdoc.com/typescript/)
+-> [TypeScript 官方教程](https://www.typescriptlang.org/zh/docs/handbook/typescript-from-scratch.html)
+
+Get Started -> The Basics -> Every
+
+- Other:
+  - [阮一峰 TypeScript 教程](https://wangdoc.com/typescript/)
 
 咕咕咕!（之前看过一遍，过段时间再补）
 
@@ -100,3 +105,9 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 ### Vitest (自动化测试)
 
 ### Nextjs (Meta 框架)
+
+---
+
+## 其他资源
+
+- [初学者的 Web 开发课程 | Microsoft](https://microsoft.github.io/Web-Dev-For-Beginners/#/./translations/zh/README)
