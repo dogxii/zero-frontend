@@ -71,12 +71,10 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 
 -> [TypeScript 官方教程](https://www.typescriptlang.org/zh/docs/handbook/typescript-from-scratch.html)
 
-Get Started -> The Basics -> Every
+Get Started -> The Basics -> Everyday Types
 
 - Other:
   - [阮一峰 TypeScript 教程](https://wangdoc.com/typescript/)
-
-咕咕咕!（之前看过一遍，过段时间再补）
 
 ---
 
