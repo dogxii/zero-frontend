@@ -11,7 +11,7 @@
 
 ---
 
-### 🌐 HTML
+### 🌐 HTML（网页结构）
 
 -> [HTML - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Structuring_content)
 
@@ -22,7 +22,7 @@ HTML 语言的全貌和基本的工作原理 -> 学习 HTML 头部 -> 语义 HTM
 
 ---
 
-### 🎨 CSS
+### 🎨 CSS（网页样式）
 
 -> [CSS 基础 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics)
 
@@ -45,7 +45,7 @@ CSS 基础及如何运行 -> CSS 添加样式的方法 -> CSS 选择器 -> 属�
 
 ---
 
-### 💻 JavaScript
+### 💻 JavaScript（脚本语言）
 
 -> [JavaScript 脚本交互 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Scripting)
 
@@ -67,7 +67,7 @@ JavaScript 了解 -> 变量 -> 数字与运算符 -> 字符串 -> 字符串方�
 
 ---
 
-### TypeScript
+### TypeScript （JavaScript 超集）
 
 -> [TypeScript 官方教程](https://www.typescriptlang.org/zh/docs/handbook/typescript-from-scratch.html)
 
